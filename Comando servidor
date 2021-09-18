@@ -1,2 +1,0 @@
-Comando para levantar el servidor:
-pip3 install flask && python3 server.py
